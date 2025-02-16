@@ -26,6 +26,7 @@
 - Android
 
 ### Server
+
 - [x] Node
 - [x] PHP
 - [x] Python
@@ -52,3 +53,8 @@
 - [ ] Ansible
 - [ ] Prometheus
 - [x] Grafana
+
+### Contact
+
+- https://www.linkedin.com/in/weijingjaylin/
+- weijingjaylin@gmail.com
