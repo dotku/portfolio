@@ -26,23 +26,29 @@
 - Android
 
 ### Server
-- Node
-- PHP
-- Python
-- Java
+- [x] Node
+- [x] PHP
+- [x] Python
+- [x] Java
+- [x] C++
+- [x] C
+- [x] Basic
+- [x] Groovy
+- [ ] Rust
 
 ### DevOps
-[x] Linux
-[x] Git
-[x] CI/CD Piplines
-[x] Docker
-[x] Jenkins
-[x] AWS
-[x] Kubernates
-[ ] Amazon EKS
-[ ] Tensorflow
-[ ] Terraform
-[x] Python
-[ ] Ansible
-[ ] Prometheus
-[ ] Grafana
+
+- [x] Linux
+- [x] Git
+- [x] CI/CD Piplines
+- [x] Docker
+- [x] Jenkins
+- [x] AWS
+- [x] Kubernates
+- [ ] Amazon EKS
+- [ ] Tensorflow
+- [ ] Terraform
+- [x] Python
+- [ ] Ansible
+- [ ] Prometheus
+- [x] Grafana
