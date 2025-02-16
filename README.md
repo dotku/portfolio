@@ -1,5 +1,9 @@
 # portfolio
 
+## Summary
+
+Weijing Lin is a highly experienced up to staff level (L6). Within 10 years working experience, he has led multiple projects across multiple functional teams and success delivered the products to the market and help company grow including design, build the product from the scratch to generated hundred million revenues.
+
 ## Projects
 
 * Led the development of Intuit GenStudio aim to the 10 billion dollar investment of company AI transformation goal by using cutting edge technologies including GenAI/LLM (Large Language Model) technologies with OpenAI GPT, Meta LLAMA, Google Gemini, Anthropic Claude that supporting companywide project with over 7,000 employees, and over 50% activate rate, 20% daily use (2023~2024). 
